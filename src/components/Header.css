@@ -1,0 +1,70 @@
+/* #checkbtn {
+  float: right;
+  display: block;
+} */
+
+/* #check {
+  display: none;
+} */
+
+/* #check:checked ~ ul {
+  left: 0;
+} */
+
+/* input#check {
+  display: none;
+} */
+/* #checkbtn {
+  display: block;
+  font-size: 18px;
+} */
+/* body {
+  background-color: aquamarine;
+  filter: blur(2px);
+} */
+
+/* .product-container {
+  display: none;
+}
+
+.product-container.visible {
+  display: block;
+} */
+.navBar {
+  width: 100%;
+  height: 50px;
+  background-color: #222;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px;
+}
+.logo {
+  color: white;
+  font-size: 20px;
+}
+.navBar ul {
+  display: inline-flex;
+  gap: 30px;
+}
+.navBar ul li {
+  list-style-type: none;
+}
+.navBar ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+.cart-count{
+  position: absolute;
+  background-color: red;
+  color: #fff;
+  padding: 2px 3px;
+  border-radius: 50%;
+  width:20px;
+  height:20px;
+  display: inline-block;
+  text-align: center;
+  font-size: 12px;
+  right:  30px;
+  top: 3px;
+}

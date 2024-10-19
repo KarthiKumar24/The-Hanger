@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Star Boy Hoodie",
+    "amt": "599",
+    "shop": "Hoodie Hub",
+    "ftype": "Hoodie",
+    "pic": "src/assets/starboyHoodie.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 2,
+    "name": "Shiko Hoodie",
+    "amt": "699",
+    "shop": "Urban Wear",
+    "ftype": "Hoodie",
+    "pic": "src/assets/shikoHoodie.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 3,
+    "name": "Rosie Hoodie",
+    "amt": "749",
+    "shop": "Street Style",
+    "ftype": "Hoodie",
+    "pic": "src/assets/rosieHoodie.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 4,
+    "name": "Aesthetic Hoodie",
+    "amt": "499",
+    "shop": "Hoodie Hub",
+    "ftype": "Hoodie",
+    "pic": "src/assets/aestheticHoodie.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 5,
+    "name": "Himiko Hoodie",
+    "amt": "799",
+    "shop": "Urban Wear",
+    "ftype": "Hoodie",
+    "pic": "src/assets/HimikoHoodie.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 6,
+    "name": "Star Boy Hoodie",
+    "amt": "599",
+    "shop": "Hoodie Hub",
+    "ftype": "Hoodie",
+    "pic": "src/assets/starboyHoodie.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 7,
+    "name": "Leather Hoodie",
+    "amt": "699",
+    "shop": "Malle Tout",
+    "ftype": "Hoodie",
+    "pic": "src/assets/leatherHoodie.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 8,
+    "name": "Rosie Hoodie",
+    "amt": "749",
+    "shop": "Street Style",
+    "ftype": "Hoodie",
+    "pic": "src/assets/rosieHoodie.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 9,
+    "name": "Softo Hoodie",
+    "amt": "499",
+    "shop": "Hoodie Hub",
+    "ftype": "Hoodie",
+    "pic": "src/assets/neylonHoodie.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 10,
+    "name": "Himiko Hoodie",
+    "amt": "799",
+    "shop": "Urban Wear",
+    "ftype": "Hoodie",
+    "pic": "src/assets/HimikoHoodie.jpg",
+    "latest": "Yes"
+  }
+]

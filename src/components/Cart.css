@@ -1,0 +1,115 @@
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  /* max-width: 500px; */
+  flex-wrap: wrap;
+  width: 100%;
+  /*margin: 0 auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px; */
+  flex-wrap: wrap;
+  overflow: scroll;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
+.cart-product {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  transition: box-shadow 0.3s ease;
+}
+
+.cart-product:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.cart-img {
+  width: 20%;
+}
+.cart-img img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.cart-product-details {
+  flex-grow: 1;
+  margin-left: 20px;
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  gap: 150px;
+}
+
+.cart-product-details h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.cart-product-details p {
+  margin: 5px 0 0;
+  font-size: 16px;
+  color: #666;
+}
+
+h1:last-of-type {
+  margin-top: 30px;
+  color: #333;
+  font-size: 24px;
+  text-align: center;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.cart-button {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  font-size: 16px;
+}
+.cart-button button {
+  /* /* width: 50%; */
+  all: unset;
+  box-shadow: none;
+  border-radius: 10px;
+  color: #fff;
+  background-color: #666;
+  padding: 10px 12px;
+}
+.btns {
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+  /* background-color: #333; */
+}
+.btns button {
+  all: unset;
+  font-size: 18px;
+  background-color: #333;
+  padding: 5px 15px;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 10px 0px;
+}
